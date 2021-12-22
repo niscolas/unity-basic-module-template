@@ -1,6 +1,6 @@
 using UnityEngine;
 
-namespace Module
+namespace ModuleName
 {
     public class RuntimeScript : MonoBehaviour { }
 }
